@@ -45,8 +45,8 @@ Check the docs to understand to fetch it.
 
 ## How to Submit
 
-1. To get started, create a new branch based off of this repo.
+1. To get started, copy this repo locally and create a new branch.
 2. Add the above features and commit the changes.  Please use meaningful commits (organized, with messages explaining what you are doing).  Optional: create separate branches for each feature (based off of each other).
-3. Create a new pull-request(s) from the created branch(es) to the main branch.
-4. Send us a link to the PR you've created to <deliyahu@shutterfly.com>
+3. Create a new pull-request(s) from the created branch(es) to the main branch (NOTE: This requires you to send us your Github username so that we can add you as a collaborator.)
+4. Send us a link to the PR you've created to <deliyahu@shutterfly.com>  As a less prefered fallback, you can zip up the project files and send this as an attachment/file as well if you have any trouble setting up a PR.
 
